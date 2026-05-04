@@ -2,7 +2,7 @@
 
 PolyNAVEM is the official repository for the Neural Approximated Virtual Element Method (NAVEM).
 
-It exploits pypolydim [PyPolydim](https://www.polydim.it/).
+It exploits [PyPolydim](https://www.polydim.it/).
 
 ## References
 
